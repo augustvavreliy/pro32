@@ -1,5 +1,4 @@
 import pytest
-import logging
 from httpx import Client
 from faker import Faker
 
